@@ -1,0 +1,12 @@
+th{font-weight:800;
+   background-color: azure;
+   color:coral;    
+  }
+table{ font-family: sans-serif;
+       border-color: antiquewhite;
+       border-collapse: collapse;
+       border-style: solid;
+       background-color: aqua;
+     }
+#heading{ font-weight:1000;}
+#heading{color: blueviolet;}
